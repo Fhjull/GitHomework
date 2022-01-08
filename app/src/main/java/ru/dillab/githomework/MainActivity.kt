@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val firstCommit = 1
+        val secondCommit = 2
     }
 }
